@@ -1,1 +1,1 @@
-cookbook_path ['C:\builder\cookbooks']
+cookbook_path ['C:\builder-master\cookbooks']
